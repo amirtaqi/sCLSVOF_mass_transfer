@@ -1,0 +1,3 @@
+sclsvofMassTransfer.C
+
+EXE = $(FOAM_APPBIN)/sclsvofMassTransfer
