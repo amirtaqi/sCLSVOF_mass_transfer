@@ -1,3 +1,4 @@
-sclsvofMassTransfer.C
+interfacePropertiesPsi.C
 
-EXE = $(FOAM_APPBIN)/sclsvofMassTransfer
+
+LIB = $(FOAM_LIBBIN)/libinterfacePropertiesPsi
